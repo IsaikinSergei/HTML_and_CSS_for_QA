@@ -1,0 +1,17 @@
+.menu {
+	list-style-type: none;
+	padding: 0;
+	font-size: 20px;
+	font-family: Helvetica, sans-serif;
+	line-height: 2;
+	color: black;
+}
+.menu__link {
+	color: inherit;
+	background: lightgray;
+	padding: 5px;
+	text-decoration: none;
+}
+.menu__link_first {
+	color: red;
+}
