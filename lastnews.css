@@ -1,0 +1,16 @@
+.card {
+  box-sizing: border-box;
+  width: 320px;
+  padding: 50px 40px;
+	border-top: 1px solid #efefef;
+	border-bottom: 1px solid #efefef;
+}
+.news {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card-date {
+  display: block;
+  margin-bottom: 20px;
+}
