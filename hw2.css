@@ -1,0 +1,10 @@
+.speakers {
+  display: flex;
+  flex-wrap: wrap;
+}
+.speaker:nth-child(n+4) {
+  border-top: 3px solid #d9dbf5;
+}
+.speaker:nth-child(even) {
+  background-color: #f0f1fb;
+}
