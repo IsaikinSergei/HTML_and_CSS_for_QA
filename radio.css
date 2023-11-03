@@ -1,0 +1,36 @@
+.radio-group-text::before {
+	display: inline-block;
+	vertical-align: middle;
+}
+.radio-group-text::before {
+content: "";
+display: inline-block;
+
+width: 20px;
+height: 20px;
+
+background-image: url("https://netology-code.github.io/resourses/pics/radio-no-active.svg");;
+background-repeat: no-repeat;
+background-position: center center;
+background-size: 20px;
+}
+
+.radio-group-text::before {
+	margin-right: 8px;
+}
+
+.radio-group {
+	display: inline-block;
+	font-size: 15px;
+}
+
+.radio-group:nth-of-type(n+2) {
+	margin-left: 15px;
+}
+
+
+
+
+
+
+
